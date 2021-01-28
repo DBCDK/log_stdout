@@ -1,5 +1,5 @@
 {
-    "name": "drupal/log_stdout",
+    "name": "dbc/log_stdout",
     "description": "This module provides an hook for Drupal Watchdog that directs log messages to php://stdout or php://stderr for better log handling with Docker.",
     "type": "drupal-module",
     "homepage": "https://www.drupal.org/project/log_stdout",
